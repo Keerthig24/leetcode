@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Keerthig24/leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/Keerthig24/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/Keerthig24/leetcode/tree/master/2383-add-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Keerthig24/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
