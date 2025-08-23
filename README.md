@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Keerthig24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Keerthig24/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Keerthig24/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Keerthig24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Keerthig24/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Keerthig24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Keerthig24/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
 ## String
