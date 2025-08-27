@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Keerthig24/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Keerthig24/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Keerthig24/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthig24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
