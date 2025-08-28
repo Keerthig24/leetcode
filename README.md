@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Keerthig24/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Keerthig24/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Keerthig24/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Keerthig24/leetcode/tree/master/0202-happy-number) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Keerthig24/leetcode/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Keerthig24/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Keerthig24/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
