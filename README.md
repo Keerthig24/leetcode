@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Keerthig24/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keerthig24/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Keerthig24/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthig24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Keerthig24/leetcode/tree/master/0496-next-greater-element-i) |
 | [0860-design-circular-queue](https://github.com/Keerthig24/leetcode/tree/master/0860-design-circular-queue) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Keerthig24/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Keerthig24/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/Keerthig24/leetcode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Keerthig24/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
@@ -144,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Keerthig24/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthig24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
