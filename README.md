@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Keerthig24/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Keerthig24/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthig24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Keerthig24/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Keerthig24/leetcode/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/Keerthig24/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthig24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Keerthig24/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Queue
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Keerthig24/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Keerthig24/leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
