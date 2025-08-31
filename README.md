@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthig24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Keerthig24/leetcode/tree/master/0496-next-greater-element-i) |
 | [0860-design-circular-queue](https://github.com/Keerthig24/leetcode/tree/master/0860-design-circular-queue) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Keerthig24/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthig24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Keerthig24/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Keerthig24/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthig24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Keerthig24/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
