@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Keerthig24/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Keerthig24/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Keerthig24/leetcode/tree/master/0367-valid-perfect-square) |
 | [2383-add-two-integers](https://github.com/Keerthig24/leetcode/tree/master/2383-add-two-integers) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Keerthig24/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthig24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Keerthig24/leetcode/tree/master/0367-valid-perfect-square) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keerthig24/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
