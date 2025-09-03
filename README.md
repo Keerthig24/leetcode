@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Keerthig24/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthig24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Keerthig24/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0886-score-of-parentheses](https://github.com/Keerthig24/leetcode/tree/master/0886-score-of-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthig24/leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Queue
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Keerthig24/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Keerthig24/leetcode/tree/master/0496-next-greater-element-i) |
+| [0886-score-of-parentheses](https://github.com/Keerthig24/leetcode/tree/master/0886-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
