@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthig24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Keerthig24/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Keerthig24/leetcode/tree/master/0496-next-greater-element-i) |
+| [0722-remove-comments](https://github.com/Keerthig24/leetcode/tree/master/0722-remove-comments) |
 | [0860-design-circular-queue](https://github.com/Keerthig24/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keerthig24/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Keerthig24/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Keerthig24/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthig24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Keerthig24/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0722-remove-comments](https://github.com/Keerthig24/leetcode/tree/master/0722-remove-comments) |
 | [0886-score-of-parentheses](https://github.com/Keerthig24/leetcode/tree/master/0886-score-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthig24/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthig24/leetcode/tree/master/1899-count-items-matching-a-rule) |
