@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Keerthig24/leetcode/tree/master/0722-remove-comments) |
 | [0860-design-circular-queue](https://github.com/Keerthig24/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keerthig24/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/Keerthig24/leetcode/tree/master/0890-lemonade-change) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Keerthig24/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthig24/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthig24/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Keerthig24/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Keerthig24/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/Keerthig24/leetcode/tree/master/0890-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
