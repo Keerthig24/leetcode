@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Keerthig24/leetcode/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/Keerthig24/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Keerthig24/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keerthig24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Keerthig24/leetcode/tree/master/0202-happy-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keerthig24/leetcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Keerthig24/leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Keerthig24/leetcode/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/Keerthig24/leetcode/tree/master/0860-design-circular-queue) |
 ## Recursion
