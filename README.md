@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Keerthig24/leetcode/tree/master/0367-valid-perfect-square) |
 | [1014-k-closest-points-to-origin](https://github.com/Keerthig24/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1610-xor-operation-in-an-array](https://github.com/Keerthig24/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/Keerthig24/leetcode/tree/master/2383-add-two-integers) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Keerthig24/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Keerthig24/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Keerthig24/leetcode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Keerthig24/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
